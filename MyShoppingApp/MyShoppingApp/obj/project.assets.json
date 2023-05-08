@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyShoppingApp\\MyShoppingApp\\MyShoppingApp.csproj",
+      "projectUniqueName": "C:\\Users\\2053909\\MyShopping\\MyShoppingApp\\MyShoppingApp\\MyShoppingApp.csproj",
       "projectName": "MyShoppingApp",
-      "projectPath": "C:\\MyShoppingApp\\MyShoppingApp\\MyShoppingApp.csproj",
+      "projectPath": "C:\\Users\\2053909\\MyShopping\\MyShoppingApp\\MyShoppingApp\\MyShoppingApp.csproj",
       "packagesPath": "C:\\Users\\2053909\\.nuget\\packages\\",
-      "outputPath": "C:\\MyShoppingApp\\MyShoppingApp\\obj\\",
+      "outputPath": "C:\\Users\\2053909\\MyShopping\\MyShoppingApp\\MyShoppingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
